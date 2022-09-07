@@ -1,7 +1,8 @@
 # Small_Indell_Analyzer
 Tool that performs analysis of the short indels introduced by Cas endonuclease. 
 
-usage: Small_Indell_Analyzer_new.py [-h] [-w WORKDIR] [-o RESDIR] [-e EXCEL_FILE] [-b BAD_ALIGN_FILE] [-r REPORT_FILE] [-t ALIGN_QUAL_THRESHOLD] [-с COUNT_THRESHOLD] [-a ALT_ALLELE] [-f WRITE_FASTQ] [-m MUTATION_TO_WRITE] ref_seq case control pam pam_orient
+usage: 
+«`{python} Small_Indell_Analyzer_new.py [-h] [-w WORKDIR] [-o RESDIR] [-e EXCEL_FILE] [-b BAD_ALIGN_FILE] [-r REPORT_FILE] [-t ALIGN_QUAL_THRESHOLD] [-с COUNT_THRESHOLD] [-a ALT_ALLELE] [-f WRITE_FASTQ] [-m MUTATION_TO_WRITE] ref_seq case control pam pam_orient«` 
 
 positional arguments:
 
