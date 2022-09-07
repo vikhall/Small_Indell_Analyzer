@@ -1,16 +1,16 @@
 # Small_Indell_Analyzer
 Tool that performs analysis of the short indels introduced by Cas endonuclease. 
 
-# Installation
+## Installation
 To install this package, download it from this GitHub page (Code -> Download zip or git clone https://github.com/vikhall/Small_Indell_Analyzer.git). Then run the script Small_Indell_Analyzer.py from src directory in terminal (Linux) or command line (Windows) (python Small_Indell_Analyzer_new.py ....)
 
-## Requirements
+### Requirements
 This package requires: 
 * Python 3.6.0 or higher;
 * Biopython 1.79 or higher;
 * xlwt 1.3.0 or higher.
 
-# Usage
+## Usage
 ```
 Small_Indell_Analyzer_new.py [-h] [-w WORKDIR] [-o RESDIR] [-e EXCEL_FILE] 
                              [-b BAD_ALIGN_FILE] [-r REPORT_FILE] [-t ALIGN_QUAL_THRESHOLD] 
@@ -65,6 +65,6 @@ options:
   -m, --mutation_to_write       If given, reads with this mutation will be written in fastq-files.
                                 Example: "--mutation_to_write=single_del_6". Default: None.
 ```
-## Example
+### Example
 
 `python Small_Indell_Analyzer_new.py ATGATGCTTTATACCGGTGACACTGATGATTATATACAAGTGCAAA RbCas12a_12i_r1.fq RbCas12a_9i_r1.fq CAAA R -w /path/to/working/directory (D:\path\to\working\directory for Windows)`
