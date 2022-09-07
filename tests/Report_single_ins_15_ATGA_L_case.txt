@@ -1,0 +1,28 @@
+Всего было проанализировано 10000 прочтений в файле D:\WorkSpace\Jupiter_WorkSpace\Untitled_Folder\single_ins_15_ATGA_L_control.fastq
+Из них 10000 (100.0%) имеют участок для редактирования, содержащий PAM
+Из них 10000 (100.0%) имеют хорошее выравнивание (score > 0)
+Всего было обнаружено 2 мутаций (indel)
+
+Подробная информация о мутациях представлена в файле Mutations_single_ins_15_ATGA_L_case.xls на странице single_ins_15_ATGA_L_control
+
+Всего было проанализировано 10000 прочтений в файле D:\WorkSpace\Jupiter_WorkSpace\Untitled_Folder\single_ins_15_ATGA_L_case.fastq
+Из них 10000 (100.0%) имеют участок для редактирования, содержащий PAM
+Из них 10000 (100.0%) имеют хорошее выравнивание (score > 0)
+Всего было обнаружено 2998 мутаций (indel)
+
+Подробная информация о мутациях представлена в файле Mutations_single_ins_15_ATGA_L_case.xls на странице single_ins_15_ATGA_L_case
+
+Всего было проанализировано 10000 прочтений в файле D:\WorkSpace\Jupiter_WorkSpace\Untitled_Folder\single_ins_15_ATGA_L_control.fastq
+Из них 10000 (100.0%) имеют участок для редактирования, содержащий PAM
+Из них 10000 (100.0%) имеют хорошее выравнивание (score > 0)
+Всего было обнаружено 2 мутаций (indel)
+
+Подробная информация о мутациях представлена в файле Mutations_single_ins_15_ATGA_L_case.xls на странице single_ins_15_ATGA_L_control
+
+Всего было проанализировано 10000 прочтений в файле D:\WorkSpace\Jupiter_WorkSpace\Untitled_Folder\single_ins_15_ATGA_L_case.fastq
+Из них 10000 (100.0%) имеют участок для редактирования, содержащий PAM
+Из них 10000 (100.0%) имеют хорошее выравнивание (score > 0)
+Всего было обнаружено 2938 мутаций (indel)
+
+Подробная информация о мутациях представлена в файле Mutations_single_ins_15_ATGA_L_case.xls на странице single_ins_15_ATGA_L_case
+
