@@ -1,7 +1,7 @@
 # Small_Indell_Analyzer
 Tool that performs analysis of the short indels introduced by Cas endonuclease. 
 <p align="center">
-  <img src="Cas9.png" width="350" title="hover text">
+  <img src="SIA.png" width="900" title="hover text">
 </p>
 
 
