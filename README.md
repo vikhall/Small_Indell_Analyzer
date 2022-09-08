@@ -1,5 +1,9 @@
 # Small_Indell_Analyzer
 Tool that performs analysis of the short indels introduced by Cas endonuclease. 
+<p align="center">
+  <img src="Cas9.png" width="350" title="hover text">
+</p>
+
 
 ## Installation
 To install this package, download it from this GitHub page (Code -> Download zip or git clone https://github.com/vikhall/Small_Indell_Analyzer.git). Then run the script Small_Indell_Analyzer.py from src directory in terminal (Linux) or command line (Windows) (python Small_Indell_Analyzer_new.py ....)
