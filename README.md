@@ -1,9 +1,13 @@
 # Small_Indell_Analyzer
-Tool that performs analysis of the short indels introduced by Cas endonuclease. 
+This tool performs analysis of the short indels introduced by Cas endonuclease. 
 <p align="center">
   <img src="SIA.png" width="900" title="hover text">
 </p>
+When testing new Cas enzymes isolated from different bacteria, it is important to find out where in the genome and which mutations these enzymes introduce. 
 
+This tool allows you to find all mutations (using the Needleman-Wunsch global alignment algorithm), count their number in the control and experimental samples, filter them and get information in the pivot table. It is known that the effectiveness of genomic editing may vary depending on the alleles located next to PAM. Therefore, this tool allows you to search for mutations separately in readings containing a specific allele. Additionally, it can write out bad alignments in a separate file, write out separate readings aligned without mutations, aligned with mutation and not aligned with reference.
+
+Most suitable for libraries obtained by targeted sequencing of the edited region. It could be too slow to work with libraries obtained using WES/WGS.
 
 ## Installation
 To install this package, download it from this GitHub page (Code -> Download zip or git clone https://github.com/vikhall/Small_Indell_Analyzer.git). Then run the script Small_Indell_Analyzer.py from src directory in terminal (Linux) or command line (Windows) (python Small_Indell_Analyzer_new.py ....)
